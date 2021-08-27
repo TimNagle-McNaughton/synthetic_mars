@@ -10,7 +10,7 @@ These synthetic images could be used to supplement training datasets for classif
 
 ----
 
-The examples folder contains random pairings of real and fake images taken from the full mosaics.
+The [examples folder](https://github.com/TimNagle-McNaughton/synthetic_mars/tree/main/poly_examples) contains random pairings of real and fake images taken from the full mosaics.
  
 Reals:
  
